@@ -1,1 +1,1 @@
-https://dernilring.github.io/rsschool-cv/cv
+https://dernilring.github.io/rsschool-cv/
