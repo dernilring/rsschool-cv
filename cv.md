@@ -44,7 +44,7 @@ function reverseWords(str) {
 ## Education :
 BSU (Faculty of Mechanics and Mathematics)
 - Mathematics and Computer Science (Mathematical and Software of Mobile Devices)
-- 
+
 *****
 
 ## English:
