@@ -1,7 +1,9 @@
 ## rsschool-cv 
 
 # Dolgaya Darina
+
 *****
+
 ## Contacts:
 
 E-mail: ddarusya32@gmail.com
@@ -15,6 +17,7 @@ Discord: dernilring#6613
 As a second-year student, I have a strong passion for problem-solving and quickly adapting to new tools and frameworks, with a keen eye for detail.
 
 I aim to gain practical skills in JavaScript, Typescript, React and other modern frameworks to develop user-friendly interfaces for web and mobile apps.
+
 *****
 
 ## Skills:
@@ -35,10 +38,13 @@ function reverseWords(str) {
   return result.join(' ');
 }
 ```
+
 *****
+
 ## Education :
 BSU (Faculty of Mechanics and Mathematics)
 - Mathematics and Computer Science (Mathematical and Software of Mobile Devices)
+- 
 *****
 
 ## English:
